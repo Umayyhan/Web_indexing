@@ -1,6 +1,7 @@
 # Yazilim-Lab.
 Web İndeksleme Uygulaması
-Yazılım Lab.II - 1.Pro
+Yazılım Lab.II - 1.Proje
+
 
 Aşama 1 için sayfa adresi: http://127.0.0.1:5000/frekans
 Bu sayfada girilen URL deki tüm kelimelere frekansları ile erişilebilir.
